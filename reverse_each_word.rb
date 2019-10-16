@@ -5,5 +5,5 @@ def reverse_each_word (string)
     num.reverse!
   end
  
-  s_array.join
+  s_array.join(' ')
 end
